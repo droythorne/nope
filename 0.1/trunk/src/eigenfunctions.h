@@ -1,4 +1,5 @@
 // Numerical routines for calculating eigenvalues/vectors of mixing Hamiltonian.
+// Essentially stolen from the GLoBES code.
 #ifndef EIGENFUNCTIONS_H
 #define EIGENFUNCTIONS_H
 #include <complex>
