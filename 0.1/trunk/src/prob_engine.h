@@ -15,7 +15,7 @@
 #include <cstdlib>
 #include "./eigenfunctions.h"
 
-/* Constants */
+/* Numerical Constants */
 //#define GLB_V_FACTOR        7.56e-14   /* Conversion factor for matter potentials */
 #define GLB_V_FACTOR        7.5e-14   /* Conversion factor for matter potentials */
 //#define GLB_Ne_MANTLE       0.497      /* Effective electron numbers for calculation */
