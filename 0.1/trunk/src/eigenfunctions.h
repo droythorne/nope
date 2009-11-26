@@ -1,4 +1,5 @@
 // Numerical routines for calculating eigenvalues/vectors of mixing Hamiltonian.
+// This is a conflict just to play with git
 #ifndef EIGENFUNCTIONS_H
 #define EIGENFUNCTIONS_H
 #include <complex>
